@@ -62,7 +62,7 @@ Join us on the [Digital Oxford Slack](slack.digitaloxford.com) to see them _live
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/cocoa.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/coin.gif)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/companioncube.png)
-![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/"filename":)
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/constipated.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dancing_robot.gif)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/devilhomer.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dino.png)
@@ -76,7 +76,7 @@ Join us on the [Digital Oxford Slack](slack.digitaloxford.com) to see them _live
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/drum_roll.gif)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/duck.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/equals.jpg)
-![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/exclamationmark.)png
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/exclamationmark.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/facepalm.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/factcore.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/failwhale.png)
@@ -105,10 +105,10 @@ Join us on the [Digital Oxford Slack](slack.digitaloxford.com) to see them _live
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/gozer.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/gunter1.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/gunter2.png)
-![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hamster_on_a_pig.)png
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hamster_on_a_pig.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/handshake.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/headdesk.gif)
-![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/heavy_equals_sign.)jpg
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/heavy_equals_sign.jpg)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/henry.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/html5.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hulksmash.png)
@@ -165,7 +165,7 @@ Join us on the [Digital Oxford Slack](slack.digitaloxford.com) to see them _live
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/metall.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mew.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mewtwo.png)
-![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/millenniumfalcon.)png
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/millenniumfalcon.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/misty.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mrpig.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ninja.png)
