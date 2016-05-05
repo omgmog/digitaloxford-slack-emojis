@@ -1,6 +1,6 @@
 ## Look at our wonderful Emoji!
 
-Join us on the [Digital Oxford Slack](slack.digitaloxford.com) to see them _live_!
+Join us on the [Digital Oxford Slack](http://slack.digitaloxford.com) to see them _live_!
 
 
 ## JSOxford
