@@ -258,6 +258,8 @@ Join us on the [Digital Oxford Slack](http://slack.digitaloxford.com) to see the
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hulksmash.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/infinity.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jelly.png)
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/katamari.png)
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/katamariroll.gif)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/maths.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/metall.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ninja.png)
