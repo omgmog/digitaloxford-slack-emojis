@@ -151,6 +151,22 @@ Join us on the [Digital Oxford Slack](http://slack.digitaloxford.com) to see the
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamatea.gif)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamaworried.gif)
 
+## Professional women (a-la [Google](http://unicode.org/L2/L2016/16160-emoji-professions.pdf))
+
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_business.png)
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_chef.png)
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_doctor.png)
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_farmer.png)
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_graduate.png)
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_laptop.png)
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_mechanic.png)
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_rockstar.png)
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_scientist.png)
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_surgeon.png)
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_teacher.png)
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_technician.png)
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_welder.png)
+
 ## Food
 
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bacon.png)
