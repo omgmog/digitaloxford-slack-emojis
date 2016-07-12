@@ -17,7 +17,7 @@ for (var i=0;i<emoji.length;i++) {
   var ext = url.split('.').pop();
   var text = emoji[i].parentElement.nextSibling.nextSibling.innerText.replace(':','').replace(':','');
 
-  out.push({ "url": "'+url+'", "filename":"'+text+'.'+ext+'"});
+  out.push({ url: url, filename:text+'.'+ext});
 
 };
 // Gives us one big JSON object, rather than a load of pseudo-JSON objects
