@@ -1,0 +1,20 @@
+{
+  "name": "digitaloxford-slack-emojis",
+  "version": "1.0.0",
+  "description": "The emojis for the Digital Oxford slack",
+  "main": "download-ish.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omgmog/digitaloxford-slack-emojis.git"
+  },
+  "author": "Max Glenister",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omgmog/digitaloxford-slack-emojis/issues"
+  },
+  "homepage": "https://github.com/omgmog/digitaloxford-slack-emojis#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "request": "^2.73.0"
+  }
+}
