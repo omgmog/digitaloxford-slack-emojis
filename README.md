@@ -700,10 +700,10 @@ Join us on the [Digital Oxford Slack](http://slack.digitaloxford.com) to see the
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/budweiser.jpg)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/carlton.gif)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/cavaliers.png)
-![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/classy_pbj_)time.gif
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/classy_pbj_time.gif)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/clippers.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dancing_penguin.gif)
-![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/doom_flame_)barrel.gif
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/doom_flame_barrel.gif)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/doom_lost_soul.gif)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/doom_mad.gif)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dropbox.png)
@@ -789,7 +789,7 @@ Join us on the [Digital Oxford Slack](http://slack.digitaloxford.com) to see the
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/deadpool.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/deal_with_it.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/decepticon.jpg)
-![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/defeat_the_)porpoise.png
+![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/defeat_the_porpoise.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dentures.png)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/disco.gif)
 ![](https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/door_stop.png)
