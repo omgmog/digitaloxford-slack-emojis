@@ -19,7 +19,7 @@ var files = require('./emoji.json');
 
 for (var i=0;i<files.length;i++) {
   var url = files[i].url;
-  var file = files[i].filename;
+  var file = 'emoji/'+files[i].filename;
   download(url, file, function () {
     console.log('Downloaded', file);
   });
