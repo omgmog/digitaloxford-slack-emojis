@@ -1,0 +1,3374 @@
+title: digital-oxford
+emojis:
+  - name: _brain
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/_brain.png
+  - name: _crab
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/_crab.gif
+  - name: _duck
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/_duck.png
+  - name: _g
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/_g.png
+  - name: _hypetrain
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/_hypetrain.gif
+  - name: _m
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/_m.png
+  - name: _o
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/_o.png
+  - name: _pinky
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/_pinky.png
+  - name: _pug_wizard
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/_pug_wizard.png
+  - name: _wave
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/_wave.gif
+  - name: 1up
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/1up.png
+  - name: 76ers
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/76ers.png
+  - name: adventurecore
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/adventurecore.png
+  - name: airquotes_
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/airquotes_.gif
+  - name: aliensguy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/aliensguy.jpg
+  - name: all_the_things
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/all_the_things.jpg
+  - name: amazon
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/amazon.png
+  - name: america
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/america.gif
+  - name: android
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/android.jpg
+  - name: angry_toast
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/angry_toast.png
+  - name: angry_trump
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/angry_trump.jpg
+  - name: angryeyes
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/angryeyes.png
+  - name: annoyed_toast
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/annoyed_toast.png
+  - name: aplus
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/aplus.jpg
+  - name: appleinc
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/appleinc.png
+  - name: apricot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/apricot.png
+  - name: archer
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/archer.png
+  - name: asana
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/asana.png
+  - name: aussiecongaparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/aussiecongaparrot.gif
+  - name: aussieparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/aussieparrot.gif
+  - name: aussiereversecongaparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/aussiereversecongaparrot.gif
+  - name: aw_yeah
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/aw_yeah.gif
+  - name: awwyeah
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/awwyeah.png
+  - name: awwyiss1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/awwyiss1.png
+  - name: awwyiss2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/awwyiss2.png
+  - name: babelfish
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/babelfish.png
+  - name: back_away
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/back_away.gif
+  - name: bacon
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bacon.png
+  - name: badger
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/badger.gif
+  - name: badrazz
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/badrazz.png
+  - name: bananadance
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bananadance.gif
+  - name: bananas
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bananas.jpg
+  - name: bandit
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bandit.png
+  - name: barf
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/barf.png
+  - name: basecamp
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/basecamp.png
+  - name: batben-west
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/batben-west.png
+  - name: batman
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/batman.gif
+  - name: batman2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/batman2.png
+  - name: bb8
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bb8.png
+  - name: bbeight
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bbeight.png
+  - name: beachball
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/beachball.gif
+  - name: beaker
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/beaker.gif
+  - name: beanbag
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/beanbag.png
+  - name: beee
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/beee.png
+  - name: ben
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ben.png
+  - name: bender
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bender.gif
+  - name: benfacepalm
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/benfacepalm.png
+  - name: benmas
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/benmas.png
+  - name: benparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/benparrot.gif
+  - name: benrito
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/benrito.png
+  - name: bensad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bensad.png
+  - name: benweek
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/benweek.png
+  - name: benweekend
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/benweekend.png
+  - name: bernie_sanders
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bernie_sanders.png
+  - name: bin
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bin.png
+  - name: bird-person
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bird-person.png
+  - name: blacksun
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/blacksun.png
+  - name: blueshell
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/blueshell.png
+  - name: blueshellspikes
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/blueshellspikes.png
+  - name: blueshellwings
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/blueshellwings.png
+  - name: bluesteel
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bluesteel.gif
+  - name: bmfm1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bmfm1.png
+  - name: bmfm2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bmfm2.png
+  - name: bmo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bmo.gif
+  - name: bmo1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bmo1.png
+  - name: bmo2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bmo2.png
+  - name: bmo3
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bmo3.png
+  - name: bob_ross
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bob_ross.png
+  - name: bobba_fett
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bobba_fett.gif
+  - name: bobthecat
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bobthecat.png
+  - name: bolt
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bolt.png
+  - name: boo_cry
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/boo_cry.png
+  - name: boo_cute
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/boo_cute.png
+  - name: boo_happy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/boo_happy.png
+  - name: boo_love
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/boo_love.png
+  - name: boo_mad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/boo_mad.png
+  - name: boo_tired
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/boo_tired.png
+  - name: boo_unimpressed
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/boo_unimpressed.png
+  - name: boo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/boo.png
+  - name: boomhead
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/boomhead.gif
+  - name: booom
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/booom.gif
+  - name: boredparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/boredparrot.gif
+  - name: bows
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bows.gif
+  - name: brain
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/brain.png
+  - name: brb
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/brb.gif
+  - name: breakfastclub
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/breakfastclub.png
+  - name: breezy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/breezy.png
+  - name: briefcase_wanker
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/briefcase_wanker.jpg
+  - name: bubblegum1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bubblegum1.png
+  - name: bubblegum2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bubblegum2.png
+  - name: bucha
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bucha.jpg
+  - name: bucks
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bucks.png
+  - name: bud_light
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bud_light.png
+  - name: budweiser
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/budweiser.jpg
+  - name: bulbasaur
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bulbasaur.png
+  - name: bulls
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bulls.png
+  - name: burger_cute
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/burger_cute.png
+  - name: burgerbounce
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/burgerbounce.gif
+  - name: burgercute
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/burgercute.png
+  - name: burgerspin
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/burgerspin.gif
+  - name: burgersquash
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/burgersquash.gif
+  - name: burgerzoom
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/burgerzoom.gif
+  - name: burrito_g
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/burrito_g.png
+  - name: butanimated
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/butanimated.jpg
+  - name: bye_boo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/bye_boo.gif
+  - name: c3po
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/c3po.png
+  - name: callie
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/callie.png
+  - name: calm
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/calm.png
+  - name: captain_america
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/captain_america.gif
+  - name: captain_obvious
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/captain_obvious.png
+  - name: captain_phasma
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/captain_phasma.png
+  - name: captainphasma
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/captainphasma.png
+  - name: carlton
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/carlton.gif
+  - name: cartman
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/cartman.png
+  - name: cavaliers
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/cavaliers.png
+  - name: celebrate-flipped
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/celebrate-flipped.gif
+  - name: celebrate
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/celebrate.gif
+  - name: celeryman
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/celeryman.gif
+  - name: celtics
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/celtics.png
+  - name: chad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/chad.gif
+  - name: challenge_accepted
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/challenge_accepted.jpg
+  - name: challenge_denied
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/challenge_denied.jpg
+  - name: chandler_dance
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/chandler_dance.gif
+  - name: charizard
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/charizard.png
+  - name: charmander
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/charmander.png
+  - name: charmeleon
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/charmeleon.png
+  - name: cheddar
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/cheddar.jpg
+  - name: cheeky
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/cheeky.gif
+  - name: cheese
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/cheese.png
+  - name: chemex
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/chemex.png
+  - name: chewie
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/chewie.png
+  - name: chillparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/chillparrot.gif
+  - name: chips
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/chips.png
+  - name: chocobo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/chocobo.gif
+  - name: chompy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/chompy.gif
+  - name: chrome
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/chrome.png
+  - name: clapping
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/clapping.gif
+  - name: classy_pbj_time
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/classy_pbj_time.gif
+  - name: clippers
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/clippers.png
+  - name: clojure
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/clojure.gif
+  - name: cocoa
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/cocoa.png
+  - name: coconut
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/coconut.png
+  - name: coin
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/coin.gif
+  - name: command
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/command.png
+  - name: companion_cube
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/companion_cube.png
+  - name: companioncube
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/companioncube.png
+  - name: con-air
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/con-air.jpg
+  - name: concern
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/concern.png
+  - name: congaparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/congaparrot.gif
+  - name: constipated
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/constipated.png
+  - name: corndog
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/corndog.png
+  - name: corona
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/corona.jpg
+  - name: creeper
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/creeper.jpg
+  - name: croissant
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/croissant.png
+  - name: crowdfire
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/crowdfire.png
+  - name: cry_toast
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/cry_toast.png
+  - name: crying_jordan
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/crying_jordan.png
+  - name: crying_kim_kardashian
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/crying_kim_kardashian.png
+  - name: crying
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/crying.png
+  - name: dance_awkward
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dance_awkward.gif
+  - name: dance
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dance.gif
+  - name: dancing_corgi
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dancing_corgi.gif
+  - name: dancing_hotdog
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dancing_hotdog.gif
+  - name: dancing_lisa
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dancing_lisa.gif
+  - name: dancing_penguin
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dancing_penguin.gif
+  - name: dancing_pickle
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dancing_pickle.gif
+  - name: dancing_robot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dancing_robot.gif
+  - name: dancing_tree
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dancing_tree.gif
+  - name: darth_vader
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/darth_vader.png
+  - name: datadog
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/datadog.png
+  - name: datboi
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/datboi.gif
+  - name: deadmau5
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/deadmau5.png
+  - name: deadpool
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/deadpool.png
+  - name: deal_with_it
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/deal_with_it.png
+  - name: dealwithitparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dealwithitparrot.gif
+  - name: death_star
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/death_star.png
+  - name: decepticon
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/decepticon.jpg
+  - name: defeat_the_porpoise
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/defeat_the_porpoise.png
+  - name: dentures
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dentures.png
+  - name: deputy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/deputy.jpg
+  - name: devil
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/devil.gif
+  - name: devilhomer
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/devilhomer.png
+  - name: devo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/devo.png
+  - name: dg_heart_small
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dg_heart_small.png
+  - name: dg_heart
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dg_heart.png
+  - name: dickbutt
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dickbutt.png
+  - name: dino
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dino.png
+  - name: disco_dance
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/disco_dance.gif
+  - name: disco
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/disco.gif
+  - name: ditto
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ditto.gif
+  - name: dna
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dna.png
+  - name: docker
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/docker.png
+  - name: doge
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/doge.png
+  - name: doge2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/doge2.png
+  - name: dogewow
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dogewow.gif
+  - name: doh
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/doh.png
+  - name: domo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/domo.png
+  - name: donald_trump
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/donald_trump.png
+  - name: doom_acid_barrel
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/doom_acid_barrel.gif
+  - name: doom_flame_barrel
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/doom_flame_barrel.gif
+  - name: doom_gib
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/doom_gib.gif
+  - name: doom_look
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/doom_look.gif
+  - name: doom_lost_soul
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/doom_lost_soul.gif
+  - name: doom_mad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/doom_mad.gif
+  - name: door_stop
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/door_stop.png
+  - name: doot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/doot.png
+  - name: dorito
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dorito.png
+  - name: doritwo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/doritwo.gif
+  - name: dottie
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dottie.png
+  - name: drake
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/drake.gif
+  - name: drool
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/drool.gif
+  - name: dropbox
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/dropbox.png
+  - name: droplr
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/droplr.png
+  - name: drum_roll
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/drum_roll.gif
+  - name: duck
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/duck.png
+  - name: easy_button
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/easy_button.png
+  - name: elmo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/elmo.png
+  - name: empathy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/empathy.png
+  - name: empire
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/empire.png
+  - name: epic_win
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/epic_win.png
+  - name: equals
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/equals.jpg
+  - name: ermygerd
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ermygerd.gif
+  - name: ether
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ether.png
+  - name: evil
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/evil.png
+  - name: excellent
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/excellent.png
+  - name: excite_biker
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/excite_biker.gif
+  - name: excited
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/excited.gif
+  - name: excitedstar
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/excitedstar.gif
+  - name: exclamationmark
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/exclamationmark.png
+  - name: existentialdread
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/existentialdread.gif
+  - name: explodyparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/explodyparrot.gif
+  - name: eyeroll
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/eyeroll.gif
+  - name: eyerolll
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/eyerolll.gif
+  - name: facebook
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/facebook.png
+  - name: facedesk
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/facedesk.gif
+  - name: facepalm_
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/facepalm_.png
+  - name: facepalm
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/facepalm.png
+  - name: factcore
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/factcore.png
+  - name: failwhale
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/failwhale.png
+  - name: fan
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fan.gif
+  - name: farnsworth
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/farnsworth.png
+  - name: fastparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fastparrot.gif
+  - name: fb-angry
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fb-angry.gif
+  - name: fb-heart
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fb-heart.gif
+  - name: fb-laugh
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fb-laugh.gif
+  - name: fb-like
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fb-like.gif
+  - name: fb-sad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fb-sad.gif
+  - name: fb-wow
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fb-wow.gif
+  - name: feels
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/feels.png
+  - name: fiestaparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fiestaparrot.gif
+  - name: finger_hole
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/finger_hole.gif
+  - name: fingers_crossed
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fingers_crossed.jpg
+  - name: fingers-crossed
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fingers-crossed.png
+  - name: fingerscrossed
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fingerscrossed.png
+  - name: finn
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/finn.gif
+  - name: finn1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/finn1.png
+  - name: finn10
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/finn10.png
+  - name: finn11
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/finn11.png
+  - name: finn12
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/finn12.png
+  - name: finn13
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/finn13.png
+  - name: finn2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/finn2.png
+  - name: finn3
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/finn3.png
+  - name: finn4
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/finn4.png
+  - name: finn5
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/finn5.png
+  - name: finn6
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/finn6.png
+  - name: finn7
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/finn7.png
+  - name: finn8
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/finn8.png
+  - name: finn9
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/finn9.png
+  - name: fionna
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fionna.png
+  - name: fireball
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fireball.gif
+  - name: firefox
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/firefox.png
+  - name: fist_bump
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fist_bump.gif
+  - name: fistbump
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fistbump.png
+  - name: flag_on_the_play
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/flag_on_the_play.jpg
+  - name: flames
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/flames.gif
+  - name: flash
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/flash.gif
+  - name: flirt_toast
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/flirt_toast.png
+  - name: flux
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/flux.gif
+  - name: flying_money_with_wings
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/flying_money_with_wings.gif
+  - name: fortune
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fortune.png
+  - name: fred
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fred.png
+  - name: freddo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/freddo.png
+  - name: freezing
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/freezing.png
+  - name: frenchpress
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/frenchpress.png
+  - name: fry
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/fry.png
+  - name: gabriel
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/gabriel.png
+  - name: gandalf
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/gandalf.gif
+  - name: gasp
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/gasp.png
+  - name: giggity
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/giggity.gif
+  - name: ginger
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ginger.png
+  - name: gir_dance
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/gir_dance.gif
+  - name: github
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/github.png
+  - name: gitstatus
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/gitstatus.gif
+  - name: gizmo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/gizmo.jpg
+  - name: glowstick
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/glowstick.gif
+  - name: gmail
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/gmail.png
+  - name: golang
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/golang.png
+  - name: good_job
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/good_job.gif
+  - name: google
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/google.png
+  - name: googlecardboard
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/googlecardboard.png
+  - name: goomba
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/goomba.gif
+  - name: gothparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/gothparrot.gif
+  - name: gouda
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/gouda.jpg
+  - name: gozer
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/gozer.png
+  - name: gplay
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/gplay.png
+  - name: grin_toast
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/grin_toast.png
+  - name: grizzlies
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/grizzlies.png
+  - name: growler
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/growler.png
+  - name: grumpycat
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/grumpycat.png
+  - name: guiness
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/guiness.jpg
+  - name: gunter1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/gunter1.png
+  - name: gunter2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/gunter2.png
+  - name: hadouken
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hadouken.jpg
+  - name: hahabusiness
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hahabusiness.png
+  - name: hammer_time
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hammer_time.gif
+  - name: hamster_on_a_pig
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hamster_on_a_pig.png
+  - name: handshake
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/handshake.png
+  - name: happening
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/happening.gif
+  - name: happy_obama
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/happy_obama.png
+  - name: happygoat
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/happygoat.gif
+  - name: harold
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/harold.jpg
+  - name: harry
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/harry.gif
+  - name: hat
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hat.png
+  - name: hawks
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hawks.png
+  - name: headbang
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/headbang.gif
+  - name: headcrab
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/headcrab.gif
+  - name: headdesk
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/headdesk.gif
+  - name: heat
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/heat.png
+  - name: heavy_equals_sign
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/heavy_equals_sign.jpg
+  - name: heisenberg
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/heisenberg.png
+  - name: henry
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/henry.png
+  - name: heres_johnny
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/heres_johnny.png
+  - name: heroku
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/heroku.png
+  - name: hey-girl
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hey-girl.png
+  - name: high_speed_rail
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/high_speed_rail.png
+  - name: hillary_clinton
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hillary_clinton.png
+  - name: hipster_oversized_glasses
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hipster_oversized_glasses.png
+  - name: hipster
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hipster.png
+  - name: hmmm
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hmmm.gif
+  - name: hodor
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hodor.png
+  - name: homer_disappear
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/homer_disappear.gif
+  - name: homer-disappear
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/homer-disappear.gif
+  - name: honeybadger
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/honeybadger.png
+  - name: hornets
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hornets.png
+  - name: html5
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/html5.png
+  - name: hug
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hug.png
+  - name: hulksmash
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hulksmash.png
+  - name: humpday
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/humpday.png
+  - name: hungover
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hungover.gif
+  - name: hypetrain
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hypetrain.png
+  - name: hypno
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hypno.gif
+  - name: hypnotoad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/hypnotoad.gif
+  - name: i_see_what_you_did_there
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/i_see_what_you_did_there.png
+  - name: ibm
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ibm.png
+  - name: ice-cream-parrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ice-cream-parrot.gif
+  - name: iceking1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/iceking1.png
+  - name: iceking2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/iceking2.png
+  - name: illustrator
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/illustrator.png
+  - name: imposibru
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/imposibru.png
+  - name: indesign
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/indesign.png
+  - name: infinity
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/infinity.png
+  - name: insanity_wolf
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/insanity_wolf.png
+  - name: instacart
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/instacart.png
+  - name: instagram
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/instagram.png
+  - name: internet_explorer
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/internet_explorer.png
+  - name: ivysaur
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ivysaur.png
+  - name: jake_wink
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jake_wink.gif
+  - name: jake1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jake1.png
+  - name: jake2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jake2.png
+  - name: jake3
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jake3.png
+  - name: jake4
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jake4.png
+  - name: jake5
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jake5.png
+  - name: jake6
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jake6.png
+  - name: jake7
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jake7.png
+  - name: jake8
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jake8.png
+  - name: java
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/java.png
+  - name: javascript
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/javascript.png
+  - name: jazz
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jazz.png
+  - name: jelly
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jelly.png
+  - name: jerry
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jerry.png
+  - name: jigglypuff
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jigglypuff.png
+  - name: jordan_cry
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jordan_cry.png
+  - name: js_emoji
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/js_emoji.png
+  - name: js
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/js.png
+  - name: jsox_laser_horse
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jsox_laser_horse.png
+  - name: jsoxford
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/jsoxford.png
+  - name: kanye_west
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/kanye_west.png
+  - name: kappa
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/kappa.png
+  - name: katamari
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/katamari.png
+  - name: katamariroll
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/katamariroll.gif
+  - name: kenny
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/kenny.png
+  - name: kerbal_space_program
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/kerbal_space_program.jpg
+  - name: kevin
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/kevin.jpg
+  - name: kid-deal
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/kid-deal.gif
+  - name: kings
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/kings.png
+  - name: kirby
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/kirby.gif
+  - name: knicks
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/knicks.png
+  - name: knuckles_waiting
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/knuckles_waiting.gif
+  - name: knuckles
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/knuckles.gif
+  - name: koopakart
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/koopakart.gif
+  - name: kungfu
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/kungfu.gif
+  - name: kyle
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/kyle.png
+  - name: kylo_ren
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/kylo_ren.png
+  - name: kyloren
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/kyloren.png
+  - name: lacroix
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lacroix.png
+  - name: lakers
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lakers.png
+  - name: lalala
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lalala.gif
+  - name: landspeeder
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/landspeeder.png
+  - name: laugh
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/laugh.gif
+  - name: lebowski-what-day
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lebowski-what-day.gif
+  - name: left_shark
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/left_shark.gif
+  - name: leftshark
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/leftshark.gif
+  - name: lel
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lel.png
+  - name: lemongrab
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lemongrab.png
+  - name: lexy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lexy.png
+  - name: lifeishard
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lifeishard.gif
+  - name: liftoff
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/liftoff.gif
+  - name: lightsaber
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lightsaber.png
+  - name: like
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/like.gif
+  - name: lilbub
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lilbub.png
+  - name: link-run
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/link-run.gif
+  - name: link-spin
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/link-spin.gif
+  - name: link-triforce
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/link-triforce.png
+  - name: llamabored
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamabored.gif
+  - name: llamacomehere
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamacomehere.gif
+  - name: llamaconfused
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamaconfused.gif
+  - name: llamacool
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamacool.gif
+  - name: llamacute
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamacute.gif
+  - name: llamadance
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamadance.gif
+  - name: llamadude
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamadude.gif
+  - name: llamaexcited
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamaexcited.gif
+  - name: llamalaugh
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamalaugh.gif
+  - name: llamamad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamamad.gif
+  - name: llamarub
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamarub.gif
+  - name: llamasad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamasad.gif
+  - name: llamasnot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamasnot.gif
+  - name: llamasqueeze
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamasqueeze.gif
+  - name: llamasweat
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamasweat.gif
+  - name: llamatea
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamatea.gif
+  - name: llamaworried
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/llamaworried.gif
+  - name: lol
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lol.gif
+  - name: lq01
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lq01.png
+  - name: lq02
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lq02.png
+  - name: lq03
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lq03.png
+  - name: lq04
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lq04.png
+  - name: lsp1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lsp1.png
+  - name: lsp2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lsp2.png
+  - name: lumberg
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/lumberg.jpg
+  - name: mack
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mack.png
+  - name: magic
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/magic.gif
+  - name: mailchimp
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mailchimp.png
+  - name: marceline1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/marceline1.png
+  - name: marceline2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/marceline2.png
+  - name: marcuswow
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/marcuswow.png
+  - name: marcuswow2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/marcuswow2.png
+  - name: mario-block
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mario-block.png
+  - name: mario
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mario.png
+  - name: mariohead
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mariohead.png
+  - name: mariokart
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mariokart.gif
+  - name: marshmallow
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/marshmallow.png
+  - name: maths
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/maths.png
+  - name: matrix
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/matrix.gif
+  - name: mavericks
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mavericks.png
+  - name: max
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/max.png
+  - name: mcdonalds
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mcdonalds.png
+  - name: mecha_batman
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mecha_batman.png
+  - name: meditating
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/meditating.gif
+  - name: meeseeks
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/meeseeks.png
+  - name: meetup
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/meetup.png
+  - name: megalizard
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/megalizard.gif
+  - name: megusta
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/megusta.png
+  - name: merica
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/merica.gif
+  - name: meshy-parrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/meshy-parrot.gif
+  - name: metall
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/metall.png
+  - name: metroid
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/metroid.gif
+  - name: mew
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mew.png
+  - name: mewtwo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mewtwo.png
+  - name: mic_drop
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mic_drop.jpg
+  - name: middleparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/middleparrot.gif
+  - name: millenniumfalcon
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/millenniumfalcon.png
+  - name: mindblown
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mindblown.gif
+  - name: minion_wave
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/minion_wave.png
+  - name: misty
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/misty.png
+  - name: mj
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mj.gif
+  - name: mk_cyrax_dance
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mk_cyrax_dance.gif
+  - name: mlpabbored
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpabbored.png
+  - name: mlpabhuh
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpabhuh.png
+  - name: mlpabmeh
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpabmeh.png
+  - name: mlpabsmile
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpabsmile.png
+  - name: mlpabstern
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpabstern.png
+  - name: mlpabwut
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpabwut.png
+  - name: mlpajbaffle
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpajbaffle.png
+  - name: mlpajcower
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpajcower.png
+  - name: mlpajcry
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpajcry.png
+  - name: mlpajdoubt
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpajdoubt.png
+  - name: mlpajfrown
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpajfrown.png
+  - name: mlpajhappy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpajhappy.png
+  - name: mlpajlie
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpajlie.png
+  - name: mlpajsly
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpajsly.png
+  - name: mlpajsup
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpajsup.png
+  - name: mlpajugh
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpajugh.png
+  - name: mlpajwut
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpajwut.png
+  - name: mlpallmybits
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpallmybits.png
+  - name: mlpangel
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpangel.png
+  - name: mlpapathia
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpapathia.png
+  - name: mlpapplederp
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpapplederp.png
+  - name: mlpapplegasp
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpapplegasp.png
+  - name: mlpawwyeah
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpawwyeah.png
+  - name: mlpbonbon
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpbonbon.png
+  - name: mlpbulkbiceps
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpbulkbiceps.png
+  - name: mlpcadance
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpcadance.png
+  - name: mlpcadencesmile
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpcadencesmile.png
+  - name: mlpcelestia
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpcelestia.png
+  - name: mlpcelestiamad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpcelestiamad.png
+  - name: mlpcelestiawut
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpcelestiawut.png
+  - name: mlpchangeling
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpchangeling.png
+  - name: mlpcheerilee
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpcheerilee.png
+  - name: mlpchrysalis
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpchrysalis.png
+  - name: mlpcockatrice
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpcockatrice.png
+  - name: mlpcocosmile
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpcocosmile.png
+  - name: mlpcolgate
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpcolgate.png
+  - name: mlpcutealoo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpcutealoo.png
+  - name: mlpdealwithit
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpdealwithit.png
+  - name: mlpderp
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpderp.png
+  - name: mlpderpwizard
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpderpwizard.png
+  - name: mlpderpyhappy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpderpyhappy.png
+  - name: mlpderpyshock
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpderpyshock.png
+  - name: mlpdiamondtiara
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpdiamondtiara.png
+  - name: mlpdiscentia
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpdiscentia.png
+  - name: mlpdiscordgrump
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpdiscordgrump.png
+  - name: mlpdiscordsad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpdiscordsad.png
+  - name: mlpdj
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpdj.png
+  - name: mlpdumbfabric
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpdumbfabric.png
+  - name: mlpeeyup
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpeeyup.png
+  - name: mlpfabulous
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpfabulous.png
+  - name: mlpfacehoof
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpfacehoof.png
+  - name: mlpfillytgap
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpfillytgap.png
+  - name: mlpflamflim
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpflamflim.png
+  - name: mlpflimflam
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpflimflam.png
+  - name: mlpflutterblush
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpflutterblush.png
+  - name: mlpfluttercry
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpfluttercry.png
+  - name: mlpflutterfear
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpflutterfear.png
+  - name: mlpflutterhay
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpflutterhay.png
+  - name: mlpflutterjerk
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpflutterjerk.png
+  - name: mlpflutterkay
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpflutterkay.png
+  - name: mlpflutternice
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpflutternice.png
+  - name: mlpflutterroll
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpflutterroll.png
+  - name: mlpfluttershh
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpfluttershh.png
+  - name: mlpfluttershy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpfluttershy.png
+  - name: mlpfluttersrs
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpfluttersrs.png
+  - name: mlpflutterwhoa
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpflutterwhoa.png
+  - name: mlpflutterwink
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpflutterwink.png
+  - name: mlpflutteryay
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpflutteryay.png
+  - name: mlpgilda
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpgilda.png
+  - name: mlpgoodjob
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpgoodjob.png
+  - name: mlpgrannysmith
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpgrannysmith.png
+  - name: mlpgross
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpgross.png
+  - name: mlpguard
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpguard.png
+  - name: mlphahaha
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlphahaha.png
+  - name: mlphappyluna
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlphappyluna.png
+  - name: mlphmmm
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlphmmm.png
+  - name: mlphuhhuh
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlphuhhuh.png
+  - name: mlpjoy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpjoy.png
+  - name: mlplimestonegrin
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlplimestonegrin.png
+  - name: mlplouder
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlplouder.png
+  - name: mlploveme
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlploveme.png
+  - name: mlplunagasp
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlplunagasp.png
+  - name: mlplunamad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlplunamad.png
+  - name: mlplunasad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlplunasad.png
+  - name: mlplunateehee
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlplunateehee.png
+  - name: mlplunawait
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlplunawait.png
+  - name: mlplyra
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlplyra.png
+  - name: mlpmacintears
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpmacintears.png
+  - name: mlpmanspike
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpmanspike.png
+  - name: mlpmaud
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpmaud.png
+  - name: mlpnightmaregrin
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpnightmaregrin.png
+  - name: mlpnmm
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpnmm.png
+  - name: mlpnoooo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpnoooo.png
+  - name: mlpnotangry
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpnotangry.png
+  - name: mlpoctavia
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpoctavia.png
+  - name: mlpohcomeon
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpohcomeon.png
+  - name: mlpohhi
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpohhi.png
+  - name: mlpooh
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpooh.png
+  - name: mlpparty
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpparty.png
+  - name: mlpphotofinish
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpphotofinish.png
+  - name: mlppinkamina
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlppinkamina.png
+  - name: mlppinkieawe
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlppinkieawe.png
+  - name: mlppinkiefear
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlppinkiefear.png
+  - name: mlppinkiepout
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlppinkiepout.png
+  - name: mlppinkiesad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlppinkiesad.png
+  - name: mlpppboring
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpppboring.png
+  - name: mlpppcute
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpppcute.png
+  - name: mlpppdont
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpppdont.png
+  - name: mlpppreally
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpppreally.png
+  - name: mlpppseesyou
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpppseesyou.png
+  - name: mlpppshrug
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpppshrug.png
+  - name: mlppriceless
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlppriceless.png
+  - name: mlppunchdrunk
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlppunchdrunk.png
+  - name: mlprapathia
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprapathia.png
+  - name: mlprarishock
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprarishock.png
+  - name: mlprarityannoyed
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprarityannoyed.png
+  - name: mlpraritydaww
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpraritydaww.png
+  - name: mlpraritydress
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpraritydress.png
+  - name: mlprarityeww
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprarityeww.png
+  - name: mlpraritygrump
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpraritygrump.png
+  - name: mlprarityjudge
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprarityjudge.png
+  - name: mlpraritynews
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpraritynews.png
+  - name: mlprarityprimp
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprarityprimp.png
+  - name: mlprarityreally
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprarityreally.png
+  - name: mlpraritysad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpraritysad.png
+  - name: mlpraritytired
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpraritytired.png
+  - name: mlpraritywhine
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpraritywhine.png
+  - name: mlpraritywhy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpraritywhy.png
+  - name: mlpraritywut
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpraritywut.png
+  - name: mlprarityyell
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprarityyell.png
+  - name: mlprdannoyed
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprdannoyed.png
+  - name: mlprdcool
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprdcool.png
+  - name: mlprdcry
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprdcry.png
+  - name: mlprdhappy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprdhappy.png
+  - name: mlprdhuh
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprdhuh.png
+  - name: mlprdsalute
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprdsalute.png
+  - name: mlprdscared
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprdscared.png
+  - name: mlprdsitting
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprdsitting.png
+  - name: mlprdsmile
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprdsmile.png
+  - name: mlprdsnrk
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprdsnrk.png
+  - name: mlprdwut
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlprdwut.png
+  - name: mlpsbbook
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpsbbook.png
+  - name: mlpsbshocked
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpsbshocked.png
+  - name: mlpsbstare
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpsbstare.png
+  - name: mlpsbwtf
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpsbwtf.png
+  - name: mlpscootablue
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpscootablue.png
+  - name: mlpscootacheer
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpscootacheer.png
+  - name: mlpscootaderp
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpscootaderp.png
+  - name: mlpscootaeww
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpscootaeww.png
+  - name: mlpscootaloo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpscootaloo.png
+  - name: mlpscootaplease
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpscootaplease.png
+  - name: mlpshiningarmor
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpshiningarmor.png
+  - name: mlpshiningpride
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpshiningpride.png
+  - name: mlpsilverspoon
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpsilverspoon.png
+  - name: mlpskeptiloo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpskeptiloo.png
+  - name: mlpsmooze
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpsmooze.png
+  - name: mlpsnails
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpsnails.png
+  - name: mlpsneakybelle
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpsneakybelle.png
+  - name: mlpsoawesome
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpsoawesome.png
+  - name: mlpsombra
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpsombra.png
+  - name: mlpsotrue
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpsotrue.png
+  - name: mlpspikeapproves
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpspikeapproves.png
+  - name: mlpspikehappy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpspikehappy.png
+  - name: mlpspikemeh
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpspikemeh.png
+  - name: mlpspikenervous
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpspikenervous.png
+  - name: mlpspikepushy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpspikepushy.png
+  - name: mlpspikewhoa
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpspikewhoa.png
+  - name: mlpspikewtf
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpspikewtf.png
+  - name: mlpspitfire
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpspitfire.png
+  - name: mlpsquintyjack
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpsquintyjack.png
+  - name: mlpstarlightrage
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpstarlightrage.png
+  - name: mlpsunsetshimmer
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpsunsetshimmer.png
+  - name: mlpsunsetsneaky
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpsunsetsneaky.png
+  - name: mlpswagintosh
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpswagintosh.png
+  - name: mlptakealetter
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptakealetter.png
+  - name: mlpthcalm
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpthcalm.png
+  - name: mlpthehorror
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpthehorror.png
+  - name: mlptrixiesad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptrixiesad.png
+  - name: mlptrixiesmug
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptrixiesmug.png
+  - name: mlptroubleshoes
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptroubleshoes.png
+  - name: mlptwibeam
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptwibeam.png
+  - name: mlptwicrazy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptwicrazy.png
+  - name: mlptwidaw
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptwidaw.png
+  - name: mlptwipbbt
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptwipbbt.png
+  - name: mlptwiponder
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptwiponder.png
+  - name: mlptwipride
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptwipride.png
+  - name: mlptwirage
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptwirage.png
+  - name: mlptwiright
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptwiright.png
+  - name: mlptwisad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptwisad.png
+  - name: mlptwisecret
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptwisecret.png
+  - name: mlptwismile
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptwismile.png
+  - name: mlptwismug
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptwismug.png
+  - name: mlptwisquint
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptwisquint.png
+  - name: mlptwistare
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlptwistare.png
+  - name: mlpwahaha
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpwahaha.png
+  - name: mlpwasntme
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpwasntme.png
+  - name: mlpwhattheflut
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpwhattheflut.png
+  - name: mlpwhooves
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpwhooves.png
+  - name: mlpzecora
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mlpzecora.png
+  - name: monocle
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/monocle.png
+  - name: moomin
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/moomin.png
+  - name: mooning
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mooning.gif
+  - name: morty
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/morty.png
+  - name: motherofgod
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/motherofgod.gif
+  - name: mrpig
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/mrpig.png
+  - name: n64
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/n64.gif
+  - name: nail
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/nail.png
+  - name: narwhal
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/narwhal.png
+  - name: navi
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/navi.png
+  - name: ndt
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ndt.png
+  - name: nemo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/nemo.gif
+  - name: netflix
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/netflix.png
+  - name: nets
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/nets.png
+  - name: ninja
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ninja.png
+  - name: no_way_oprah
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/no_way_oprah.gif
+  - name: 'no'
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/no.jpg
+  - name: not_sure
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/not_sure.jpg
+  - name: notbad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/notbad.jpg
+  - name: notes_minion
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/notes_minion.png
+  - name: notorious_big
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/notorious_big.png
+  - name: notsureif
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/notsureif.png
+  - name: nuggets
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/nuggets.png
+  - name: numb
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/numb.png
+  - name: nyancat_big
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/nyancat_big.gif
+  - name: nyancat
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/nyancat.gif
+  - name: ohyeah
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ohyeah.gif
+  - name: olaf
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/olaf.png
+  - name: oldmancrying
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/oldmancrying.png
+  - name: oldtimeyparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/oldtimeyparrot.gif
+  - name: omg-panda
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/omg-panda.gif
+  - name: omg
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/omg.png
+  - name: oof
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/oof.jpg
+  - name: ooga
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ooga.png
+  - name: opera
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/opera.png
+  - name: owl
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/owl.png
+  - name: pacers
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pacers.png
+  - name: panda_dance
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/panda_dance.gif
+  - name: panic_button
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/panic_button.png
+  - name: panic
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/panic.gif
+  - name: pants
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pants.png
+  - name: papermario
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/papermario.png
+  - name: parrot_loop
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/parrot_loop.gif
+  - name: parrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/parrot.gif
+  - name: parrotben
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/parrotben.gif
+  - name: parrotcop
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/parrotcop.gif
+  - name: parrotdad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/parrotdad.gif
+  - name: parrotwave1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/parrotwave1.gif
+  - name: parrotwave2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/parrotwave2.gif
+  - name: parrotwave3
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/parrotwave3.gif
+  - name: parrotwave4
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/parrotwave4.gif
+  - name: parrotwave5
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/parrotwave5.gif
+  - name: parrotwave6
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/parrotwave6.gif
+  - name: parrotwave7
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/parrotwave7.gif
+  - name: party_parrot_shuffle
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/party_parrot_shuffle.gif
+  - name: party
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/party.gif
+  - name: partyparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/partyparrot.gif
+  - name: patches
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/patches.png
+  - name: pbr
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pbr.jpg
+  - name: peace
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/peace.gif
+  - name: peaches
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/peaches.png
+  - name: peanut_butter_jelly_time
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/peanut_butter_jelly_time.gif
+  - name: peekaboo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/peekaboo.gif
+  - name: peep
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/peep.png
+  - name: pelicans
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pelicans.png
+  - name: pepe
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pepe.png
+  - name: peppapig
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/peppapig.png
+  - name: pepper
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pepper.png
+  - name: pepperdance
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pepperdance.gif
+  - name: peppermint1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/peppermint1.png
+  - name: peppermint2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/peppermint2.png
+  - name: pewpew
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pewpew.gif
+  - name: phantom
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/phantom.png
+  - name: phasma
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/phasma.png
+  - name: philosoraptor
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/philosoraptor.png
+  - name: phoebe1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/phoebe1.png
+  - name: phoebe2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/phoebe2.png
+  - name: phoenix
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/phoenix.gif
+  - name: photoshop
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/photoshop.png
+  - name: php
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/php.png
+  - name: picard-why
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/picard-why.png
+  - name: pickles
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pickles.png
+  - name: pidgeon
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pidgeon.png
+  - name: pie
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pie.png
+  - name: pigen
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pigen.png
+  - name: pigeon
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pigeon.png
+  - name: pikachu
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pikachu.jpg
+  - name: pinball
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pinball.png
+  - name: pinterest
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pinterest.png
+  - name: pirate
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pirate.png
+  - name: pistons
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pistons.png
+  - name: pizza_party
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pizza_party.png
+  - name: please_minion
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/please_minion.png
+  - name: plusone
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/plusone.png
+  - name: poe
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/poe.png
+  - name: poke
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/poke.gif
+  - name: pokeball
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pokeball.png
+  - name: poolparty
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/poolparty.gif
+  - name: poop3d
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/poop3d.gif
+  - name: poppy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/poppy.png
+  - name: postgresql
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/postgresql.png
+  - name: potato
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/potato.png
+  - name: powerup
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/powerup.gif
+  - name: pr
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pr.png
+  - name: praisethesun
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/praisethesun.jpg
+  - name: prettyinstant
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/prettyinstant.png
+  - name: primer_
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/primer_.gif
+  - name: primer_movie
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/primer_movie.png
+  - name: primer
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/primer.png
+  - name: princess_
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/princess_.png
+  - name: product-hunt
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/product-hunt.png
+  - name: psy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/psy.gif
+  - name: psyduck
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/psyduck.png
+  - name: pug_wizard
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pug_wizard.png
+  - name: pug
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pug.png
+  - name: pullrequest
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pullrequest.png
+  - name: pumpgirl
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pumpgirl.gif
+  - name: pumpgirlrevers
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pumpgirlrevers.gif
+  - name: pumpkin
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pumpkin.png
+  - name: purpose
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/purpose.png
+  - name: pusher
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/pusher.png
+  - name: python
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/python.png
+  - name: r2d2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/r2d2.png
+  - name: rainbow_flag
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/rainbow_flag.png
+  - name: rainbow_puke
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/rainbow_puke.jpg
+  - name: raptor
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/raptor.png
+  - name: raptors
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/raptors.png
+  - name: rascal
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/rascal.png
+  - name: raspberry_pi
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/raspberry_pi.png
+  - name: rblack
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/rblack.png
+  - name: readingpoopincrying
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/readingpoopincrying.png
+  - name: rebel
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/rebel.png
+  - name: redux
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/redux.png
+  - name: retard
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/retard.gif
+  - name: reversecongaparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/reversecongaparrot.gif
+  - name: rick_ross
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/rick_ross.jpg
+  - name: rick
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/rick.png
+  - name: rightparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/rightparrot.gif
+  - name: robbierotten
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/robbierotten.png
+  - name: robotdance
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/robotdance.gif
+  - name: rock
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/rock.gif
+  - name: rocket_launcher
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/rocket_launcher.png
+  - name: rockets
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/rockets.png
+  - name: roll_eyes
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/roll_eyes.gif
+  - name: rolleyes
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/rolleyes.gif
+  - name: ron_swanson
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ron_swanson.png
+  - name: rq01
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/rq01.png
+  - name: rq02
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/rq02.png
+  - name: rq03
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/rq03.png
+  - name: rq04
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/rq04.png
+  - name: ruby
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ruby.png
+  - name: run
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/run.gif
+  - name: sad_obama
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sad_obama.png
+  - name: sad
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sad.gif
+  - name: sadderben
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sadderben.png
+  - name: sadmadben
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sadmadben.png
+  - name: sadpanda
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sadpanda.png
+  - name: sadparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sadparrot.gif
+  - name: safari
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/safari.png
+  - name: sass
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sass.png
+  - name: sausagecry
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sausagecry.gif
+  - name: sausagedead
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sausagedead.gif
+  - name: sausagefear
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sausagefear.gif
+  - name: sausagelick
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sausagelick.gif
+  - name: sausagelift
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sausagelift.gif
+  - name: sausagemusic
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sausagemusic.gif
+  - name: sausagepunch
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sausagepunch.gif
+  - name: sausagestare
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sausagestare.gif
+  - name: sausagestrip
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sausagestrip.gif
+  - name: scope_creep
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/scope_creep.gif
+  - name: scotch
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/scotch.jpg
+  - name: seren_parrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/seren_parrot.gif
+  - name: seren-parrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/seren-parrot.gif
+  - name: seren
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/seren.jpg
+  - name: seriously
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/seriously.png
+  - name: shadow
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/shadow.png
+  - name: sharkfin
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sharkfin.png
+  - name: sheepy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sheepy.gif
+  - name: shia
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/shia.gif
+  - name: shiver
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/shiver.gif
+  - name: shocked_toast
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/shocked_toast.png
+  - name: shorts
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/shorts.png
+  - name: shrug
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/shrug.png
+  - name: shrug1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/shrug1.png
+  - name: shrug2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/shrug2.png
+  - name: shrug3
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/shrug3.png
+  - name: shrugg
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/shrugg.png
+  - name: shufflefurtherparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/shufflefurtherparrot.gif
+  - name: shuffleparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/shuffleparrot.gif
+  - name: shufflepartyparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/shufflepartyparrot.gif
+  - name: sketch
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sketch.png
+  - name: skype
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/skype.png
+  - name: slam
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/slam.gif
+  - name: sloth
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sloth.png
+  - name: slow_clap
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/slow_clap.gif
+  - name: slowclap
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/slowclap.gif
+  - name: slowparrot
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/slowparrot.gif
+  - name: slowpoke
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/slowpoke.jpg
+  - name: smh
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/smh.gif
+  - name: smile_toast
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/smile_toast.png
+  - name: smokey
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/smokey.png
+  - name: smwyg
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/smwyg.gif
+  - name: smwyg2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/smwyg2.gif
+  - name: snoop_dancing
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/snoop_dancing.gif
+  - name: snorlax
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/snorlax.png
+  - name: snowball
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/snowball.png
+  - name: sock
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sock.png
+  - name: socks
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/socks.png
+  - name: socute
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/socute.png
+  - name: sonic_sleeping
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sonic_sleeping.gif
+  - name: sonic_waiting
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sonic_waiting.gif
+  - name: sonic-dance
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sonic-dance.gif
+  - name: sonic-running
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sonic-running.gif
+  - name: sonic-wait
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sonic-wait.gif
+  - name: sonic
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sonic.gif
+  - name: soundcloud
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/soundcloud.png
+  - name: spacecore
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/spacecore.png
+  - name: sparta
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sparta.png
+  - name: speckles
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/speckles.png
+  - name: spiderman
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/spiderman.gif
+  - name: spinner
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/spinner.gif
+  - name: spoon
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/spoon.png
+  - name: spot_dance
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/spot_dance.gif
+  - name: spotify
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/spotify.png
+  - name: spurs
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/spurs.png
+  - name: squirtle
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/squirtle.png
+  - name: sriracha
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sriracha.jpg
+  - name: stackoverflow
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stackoverflow.png
+  - name: stan
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stan.png
+  - name: standard_horse
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/standard_horse.png
+  - name: starbucks
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/starbucks.png
+  - name: starwars
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/starwars.png
+  - name: stevenu
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stevenu.png
+  - name: stevenu1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stevenu1.png
+  - name: stevenu2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stevenu2.png
+  - name: stevenu3
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stevenu3.png
+  - name: stevenucat
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stevenucat.png
+  - name: stickam
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stickam.png
+  - name: stitch-1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-1.png
+  - name: stitch-10
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-10.png
+  - name: stitch-11
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-11.png
+  - name: stitch-12
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-12.png
+  - name: stitch-13
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-13.png
+  - name: stitch-14
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-14.png
+  - name: stitch-15
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-15.png
+  - name: stitch-16
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-16.png
+  - name: stitch-17
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-17.png
+  - name: stitch-18
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-18.png
+  - name: stitch-19
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-19.png
+  - name: stitch-2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-2.png
+  - name: stitch-20
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-20.png
+  - name: stitch-21
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-21.png
+  - name: stitch-22
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-22.png
+  - name: stitch-23
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-23.png
+  - name: stitch-24
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-24.png
+  - name: stitch-25
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-25.png
+  - name: stitch-26
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-26.png
+  - name: stitch-27
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-27.png
+  - name: stitch-28
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-28.png
+  - name: stitch-29
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-29.png
+  - name: stitch-3
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-3.png
+  - name: stitch-30
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-30.png
+  - name: stitch-31
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-31.png
+  - name: stitch-32
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-32.png
+  - name: stitch-33
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-33.png
+  - name: stitch-34
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-34.png
+  - name: stitch-35
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-35.png
+  - name: stitch-36
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-36.png
+  - name: stitch-37
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-37.png
+  - name: stitch-38
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-38.png
+  - name: stitch-39
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-39.png
+  - name: stitch-4
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-4.png
+  - name: stitch-40
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-40.png
+  - name: stitch-5
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-5.png
+  - name: stitch-6
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-6.png
+  - name: stitch-7
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-7.png
+  - name: stitch-8
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-8.png
+  - name: stitch-9
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stitch-9.png
+  - name: stormtrooper
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/stormtrooper.png
+  - name: subzero_turnt
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/subzero_turnt.gif
+  - name: success-kid
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/success-kid.png
+  - name: success
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/success.png
+  - name: sunny_
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/sunny_.png
+  - name: suns
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/suns.png
+  - name: surprised_obama
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/surprised_obama.png
+  - name: swear
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/swear.gif
+  - name: tabitha
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/tabitha.png
+  - name: tails
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/tails.gif
+  - name: take_my_money
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/take_my_money.png
+  - name: tardis
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/tardis.gif
+  - name: teaboard
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/teaboard.png
+  - name: terry
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/terry.png
+  - name: terrycrews
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/terrycrews.png
+  - name: tesla
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/tesla.jpg
+  - name: thankyou
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/thankyou.gif
+  - name: the_more_you_know
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/the_more_you_know.gif
+  - name: thumb_down
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/thumb_down.gif
+  - name: thumb_up
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/thumb_up.gif
+  - name: thumbsup_flipped_emojione
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/thumbsup_flipped_emojione.png
+  - name: thumbsup_flipped_twitter
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/thumbsup_flipped_twitter.png
+  - name: thunder
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/thunder.png
+  - name: thundercats
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/thundercats.png
+  - name: thwomprage
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/thwomprage.gif
+  - name: tie_fighter
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/tie_fighter.gif
+  - name: tie-fighter
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/tie-fighter.png
+  - name: tiefighter
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/tiefighter.png
+  - name: timberwolves
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/timberwolves.png
+  - name: timeforthat
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/timeforthat.gif
+  - name: tinder
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/tinder.png
+  - name: todoist
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/todoist.png
+  - name: tomi
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/tomi.png
+  - name: totoro_jump
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/totoro_jump.gif
+  - name: totoro
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/totoro.png
+  - name: towel
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/towel.png
+  - name: trailblazers
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/trailblazers.png
+  - name: trap
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/trap.png
+  - name: travisci
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/travisci.png
+  - name: travolta
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/travolta.gif
+  - name: treetrunks1
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/treetrunks1.png
+  - name: treetrunks2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/treetrunks2.png
+  - name: trello
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/trello.png
+  - name: trogdor
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/trogdor.png
+  - name: trump_china
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/trump_china.png
+  - name: trump_hair
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/trump_hair.jpg
+  - name: ts
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ts.png
+  - name: tuba
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/tuba.png
+  - name: tubbs
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/tubbs.png
+  - name: tumbleweed
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/tumbleweed.png
+  - name: tumbleweed2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/tumbleweed2.gif
+  - name: twerk
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/twerk.png
+  - name: twitter
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/twitter.png
+  - name: two-cents
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/two-cents.jpg
+  - name: typescript
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/typescript.png
+  - name: ugh_minion
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ugh_minion.png
+  - name: unacceptable
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/unacceptable.png
+  - name: underpants
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/underpants.png
+  - name: unibow
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/unibow.png
+  - name: unicorn
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/unicorn.gif
+  - name: usmnt
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/usmnt.png
+  - name: vampire
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/vampire.png
+  - name: verified
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/verified.png
+  - name: verified2
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/verified2.png
+  - name: very_metal
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/very_metal.gif
+  - name: very_nice
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/very_nice.jpg
+  - name: vinyl
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/vinyl.png
+  - name: vr_happy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/vr_happy.gif
+  - name: vr_shock
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/vr_shock.gif
+  - name: vr-right
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/vr-right.png
+  - name: warriors
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/warriors.png
+  - name: wat
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wat.jpg
+  - name: watch_out
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/watch_out.png
+  - name: wave__
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wave__.gif
+  - name: wave_
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wave_.gif
+  - name: waving
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/waving.gif
+  - name: wavingarms
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wavingarms.gif
+  - name: weeping-meshy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/weeping-meshy.png
+  - name: welsh_flag
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/welsh_flag.png
+  - name: whaleboat
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/whaleboat.png
+  - name: what_year_is_it
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/what_year_is_it.png
+  - name: what
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/what.png
+  - name: whatever_minion
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/whatever_minion.png
+  - name: wheatley
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wheatley.png
+  - name: whiskey
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/whiskey.png
+  - name: whisky
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/whisky.png
+  - name: whitepoppy
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/whitepoppy.png
+  - name: whoa_guys
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/whoa_guys.png
+  - name: whoa
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/whoa.jpg
+  - name: why_not_both
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/why_not_both.jpg
+  - name: wiggle_cat
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wiggle_cat.gif
+  - name: win
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/win.png
+  - name: winblows
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/winblows.png
+  - name: windows
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/windows.png
+  - name: wink_toast
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wink_toast.png
+  - name: winky
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/winky.gif
+  - name: wizard
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wizard.png
+  - name: wizards
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wizards.png
+  - name: wo_business
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_business.png
+  - name: wo_chef
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_chef.png
+  - name: wo_doctor
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_doctor.png
+  - name: wo_farmer
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_farmer.png
+  - name: wo_graduate
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_graduate.png
+  - name: wo_laptop
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_laptop.png
+  - name: wo_mechanic
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_mechanic.png
+  - name: wo_rockstar
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_rockstar.png
+  - name: wo_scientist
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_scientist.png
+  - name: wo_surgeon
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_surgeon.png
+  - name: wo_teacher
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_teacher.png
+  - name: wo_technician
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_technician.png
+  - name: wo_welder
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wo_welder.png
+  - name: wololo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wololo.gif
+  - name: wonder_woman
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wonder_woman.gif
+  - name: wonderwoman
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wonderwoman.png
+  - name: woo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/woo.png
+  - name: woody
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/woody.png
+  - name: woohoo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/woohoo.png
+  - name: wookiemom
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wookiemom.gif
+  - name: word
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/word.png
+  - name: working_break
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/working_break.png
+  - name: working_good_to_talk
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/working_good_to_talk.png
+  - name: working_hard_interruptible
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/working_hard_interruptible.png
+  - name: working_head_down_no_interruptions
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/working_head_down_no_interruptions.png
+  - name: working_lunch
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/working_lunch.png
+  - name: working_nothing_to_do
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/working_nothing_to_do.png
+  - name: working_vacation
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/working_vacation.png
+  - name: working_waking_up
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/working_waking_up.png
+  - name: worm
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/worm.png
+  - name: worst_ever
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/worst_ever.jpg
+  - name: wtf
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wtf.gif
+  - name: wwave_
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wwave_.gif
+  - name: wwave
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wwave.gif
+  - name: wwavehd
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/wwavehd.gif
+  - name: x-wing
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/x-wing.png
+  - name: xerxes
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/xerxes.png
+  - name: xkcdwoo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/xkcdwoo.png
+  - name: xwing
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/xwing.png
+  - name: xzibit
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/xzibit.png
+  - name: y_u_no
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/y_u_no.png
+  - name: yak
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/yak.png
+  - name: yay
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/yay.gif
+  - name: yeti
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/yeti.jpg
+  - name: yo
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/yo.png
+  - name: yoda
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/yoda.png
+  - name: yoga
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/yoga.gif
+  - name: yoshi
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/yoshi.gif
+  - name: you_dont_say
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/you_dont_say.png
+  - name: youtube
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/youtube.png
+  - name: ytho
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/ytho.png
+  - name: yuk
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/yuk.png
+  - name: zoidberg
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/zoidberg.gif
+  - name: zombie
+    src: >-
+      https://raw.githubusercontent.com/omgmog/digitaloxford-slack-emojis/master/emoji/zombie.png
